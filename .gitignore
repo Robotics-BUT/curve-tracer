@@ -1,0 +1,4 @@
+/fw/curve-tracer/*.layout
+*.suo
+/sw/curve-tracer-gui/bin
+/sw/curve-tracer-gui/obj

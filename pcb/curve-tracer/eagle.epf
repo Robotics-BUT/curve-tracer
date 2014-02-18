@@ -1,0 +1,12 @@
+[Eagle]
+Version="06 03 00"
+Platform="Windows"
+Serial="702FC7FC9B-LS-WLM-1EP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+
+[Desktop]
+Screen="3120 1600"
