@@ -23,6 +23,9 @@
 #include <libopencm3/cm3/nvic.h>
 #include <libopencm3/stm32/dac.h>
 #include <libopencm3/stm32/adc.h>
+#include <libopencm3/usb/usbd.h>
+#include <libopencm3/usb/cdc.h>
+#include <libopencm3/cm3/scb.h>
 #include <stdlib.h>
 
 /* Timer 2 count period, 100 microseconds for a 72MHz APB2 clock */
